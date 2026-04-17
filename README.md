@@ -10,8 +10,9 @@ log file is produced for every run.
 
 | Dependency | Install |
 |---|---|
-| `ncm` | `python3 -m pip install ncm` |
-| `requests` | installed automatically with `ncm` |
+| `requests` | `python3 -m pip install requests` |
+
+The `ncm` library is included with this release.
 
 ---
 
