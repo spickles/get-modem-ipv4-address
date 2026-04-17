@@ -8,9 +8,11 @@ log file is produced for every run.
 
 ## Requirements
 
-| Dependency | Install |
-|---|---|
-| `requests` | `python3 -m pip install requests` |
+Install dependencies:
+
+```
+python3 -m pip install -r requirements.txt
+```
 
 The `ncm` library is included with this release.
 
